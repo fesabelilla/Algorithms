@@ -1,3 +1,12 @@
+/*
+edges = 3 ,vertex = 4
+
+Enter the edges :
+0 1
+0 2
+2 3
+
+*/
 #include<bits/stdc++.h>
 #define white 1
 #define gray 2
