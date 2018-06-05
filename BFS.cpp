@@ -1,6 +1,6 @@
 /*
 In this code node start with 0.
-node=7 vertex = 6
+node=7 ,edges = 6
 So given input is
 0 1
 0 2
